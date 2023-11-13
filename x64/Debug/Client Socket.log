@@ -1,0 +1,7 @@
+﻿  client.cpp
+D:\c++\Client Socket\client.cpp(22,16): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\c++\Client Socket\client.cpp(27,39): warning C4018: “<”: 有符号/无符号不匹配
+D:\c++\Client Socket\client.cpp(69,113): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\Client Socket\client.cpp(76,113): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\Client Socket\client.cpp(111,27): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+  Client Socket.vcxproj -> D:\c++\Project1\x64\Debug\Client Socket.exe
